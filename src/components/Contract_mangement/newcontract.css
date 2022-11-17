@@ -1,0 +1,48 @@
+.newContract {
+  padding: 10px;
+}
+.create_btn {
+  background-color: #ff7800 !important;
+}
+.info-text {
+  font-size: 16px;
+}
+.form-label {
+  font-size: 14px;
+}
+.form-control {
+  border: 1px solid rgb(198, 196, 196);
+  border-radius: 8px;
+}
+.form-select {
+  border: 1px solid rgb(198, 196, 196);
+  border-radius: 8px;
+}
+.first-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 30px;
+}
+.third-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+.upload-file {
+  display: grid;
+}
+.file {
+  width: 500px;
+}
+.remarks {
+  display: grid;
+}
+.remark {
+  width: 100%;
+}
+.buttons {
+  display: flex;
+  justify-content: end;
+}
+.updateBtn {
+  margin-left: 250px;
+}
